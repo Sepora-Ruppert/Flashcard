@@ -10,7 +10,7 @@ This app, shows the user a question ("What's your name") and upon clicking, give
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<https://i.imgur.com/fkv0tix.mp4/>
+<https://uc5ea9597ba36305bdd7a7b41553.previews.dropboxusercontent.com/p/thumb/AAtHNn4a6mpBnT6X-evsQyXfLagJsvAOuFXM_aDNMLp-djdWgCbgX1Ur3Iby6Ox3pWGdboA-u-37qaS7qdvpkIo2aEwZ1-SURFgyGACdQJzA3QjL62bawxyH0M099DOzj_cpxYpo6eHT_3Z1tVKKM9t_JRrm7zUrvov3fJPJHDpNG5w2lhSzUoqXUit4BCWg2IbDwpFP65ye7emjO_mGsg8NyYdDOfUPatLv6X_06E6RavpYxaAbfe7L03LuUKiUqOvY-hnr2uIYoWQaHXN0ruudUjmL6mjEf9FZo_FPx5OyiqvNPMEUREymKDWV9g59td_t04QKEgJJfmJtzXd5iCsRkehs9QUAKv-IKp9KxiXghELRJmWUwuXwOGI209AO1_z390aCyPIwU9CS6UOrvRIh/p.png>
 
 
 ## Required
