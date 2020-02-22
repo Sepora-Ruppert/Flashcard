@@ -8,8 +8,6 @@
 This app, shows the user a question ("What's your name") and upon clicking, gives them the answer ("Obama"), so they can check weather they were right.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
 [Link to Video Walkthrough](https://www.dropbox.com/s/dn2mg51fuuba3b2/20200222_140321.mp4?dl=0)
 
 
